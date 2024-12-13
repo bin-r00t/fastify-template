@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "bun run server.ts"
+  },
   "dependencies": {
     "fastify": "^5.1.0"
   },
